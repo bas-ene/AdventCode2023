@@ -4,7 +4,6 @@
 const int MAX_RED = 12;
 const int MAX_GREEN = 13;
 const int MAX_BLUE = 14;
-
 std::vector<std::string> splitBy(const std::string *str, const char *delimeter,
                                  int del_length) {
   int off = 0;
